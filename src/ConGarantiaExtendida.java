@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public interface ConGarantiaExtendida {
 
-public class ConGarantiaExtendida {
+    boolean tieneGarantiaExtendida();
+
+    void activarGarantiaExtendida();
 }
