@@ -8,5 +8,3 @@ calcula el costo de mantencion de cada una y permite buscarlas por codigo.
 Como ejecutarlo
 
 Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main que esta en la carpeta src.
-
-Autor: Mario Symmes Vera
